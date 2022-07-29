@@ -1,5 +1,4 @@
 # 3-column-preview-card-component
-# A-static-Product-Website
 I devloped this 3 column prevew card using HTML5 and  CSS3.
 <h1 align="center">Hi 👋, I'm Biswajit jena</h1>
 <h3 align="center">Im a Student</h3>
