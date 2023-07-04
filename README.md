@@ -32,3 +32,5 @@ Thank you for your understanding. If there is anything specific you need from me
 Best regards,
 
 [Your Name]
+
+Office AC not working. Too hot to sit. Not productive. Please fix ASAP. Thanks.
