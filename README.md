@@ -34,3 +34,16 @@ Best regards,
 [Your Name]
 
 Office AC not working. Too hot to sit. Not productive. Please fix ASAP. Thanks.
+Subject: Urgent: Office Air Conditioning Issue
+
+Dear [Recipient's Name],
+
+I hope you're doing well. I wanted to inform you that our office air conditioning system is currently not working. As a result, the office temperature has become uncomfortably warm, making it challenging for everyone to work efficiently.
+
+Could you please look into this matter urgently? It would be greatly appreciated if you could arrange for a repair or maintenance service as soon as possible. The discomfort caused by the high temperatures is affecting our productivity and overall work environment.
+
+Thank you for your prompt attention to this issue. If you require any additional information, please let me know.
+
+Best regards,
+
+[Your Name]
