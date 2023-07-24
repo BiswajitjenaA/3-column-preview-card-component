@@ -168,3 +168,150 @@ Jaane anjaane raaston mein khada hoon, tujhe paane ki koshish mein.
 
 Kaise hua, kaise hua, ye haal tera kaise hua,
 Dil ki baaton ko samajh na sake hum, kaise hua.
+Sure, here are 20 multiple-choice questions (MCQs) on the human reproductive system:
+
+1. What is the primary male sex hormone responsible for the development of male reproductive organs and secondary sexual characteristics?
+a) Estrogen
+b) Progesterone
+c) Testosterone
+d) Follicle-stimulating hormone
+
+2. Which female reproductive organ is responsible for the production of eggs and the secretion of hormones?
+a) Uterus
+b) Ovary
+c) Fallopian tube
+d) Vagina
+
+3. During which phase of the menstrual cycle does ovulation occur?
+a) Menstrual phase
+b) Proliferative phase
+c) Secretory phase
+d) Luteal phase
+
+4. Fertilization of an egg by a sperm usually occurs in the:
+a) Uterus
+b) Vagina
+c) Ovary
+d) Fallopian tube
+
+5. What is the function of the epididymis in the male reproductive system?
+a) Production of sperm
+b) Storage and maturation of sperm
+c) Secretion of testosterone
+d) Transportation of sperm to the urethra
+
+6. The process of the release of an egg from the ovary is called:
+a) Fertilization
+b) Implantation
+c) Ovulation
+d) Menstruation
+
+7. Which hormone is responsible for stimulating milk production in the mammary glands after childbirth?
+a) Estrogen
+b) Progesterone
+c) Oxytocin
+d) Prolactin
+
+8. What is the function of the prostate gland in males?
+a) Production of testosterone
+b) Production of sperm
+c) Secretion of alkaline fluid to neutralize acidic vaginal environment
+d) Storage of sperm
+
+9. The process of the shedding of the uterine lining if fertilization does not occur is called:
+a) Ovulation
+b) Fertilization
+c) Menstruation
+d) Implantation
+
+10. Sperm cells are produced in the:
+a) Epididymis
+b) Vas deferens
+c) Seminal vesicles
+d) Seminiferous tubules
+
+11. What is the function of the corpus luteum in the female reproductive system?
+a) Production of estrogen
+b) Production of progesterone
+c) Production of eggs
+d) Storage of ova
+
+12. Which structure connects the uterus to the outside of the body?
+a) Vagina
+b) Fallopian tube
+c) Cervix
+d) Ovary
+
+13. Which of the following is a sexually transmitted infection (STI) caused by the bacterium Neisseria gonorrhoeae?
+a) Syphilis
+b) Herpes
+c) Gonorrhea
+d) Chlamydia
+
+14. In males, sperm is transported from the epididymis to the urethra through a tube called:
+a) Vas deferens
+b) Seminal vesicle
+c) Prostate gland
+d) Bulbourethral gland
+
+15. What is the approximate duration of the menstrual cycle in most women?
+a) 7 days
+b) 14 days
+c) 28 days
+d) 60 days
+
+16. Which hormone is responsible for the development of female secondary sexual characteristics like breast growth and body curves?
+a) Testosterone
+b) Estrogen
+c) Progesterone
+d) Prolactin
+
+17. The release of sperm from the male reproductive system is called:
+a) Ovulation
+b) Menstruation
+c) Ejaculation
+d) Fertilization
+
+18. What is the purpose of the mucus produced by the cervix?
+a) To lubricate the vagina during intercourse
+b) To prevent the entry of sperm into the uterus during menstruation
+c) To provide nutrients for developing embryos
+d) To help sperm swim towards the egg
+
+19. Which female reproductive structure is the usual site for the fertilized egg's implantation?
+a) Uterus
+b) Fallopian tube
+c) Ovary
+d) Cervix
+
+20. The presence of which hormone in a woman's urine is often used to indicate pregnancy in home pregnancy tests?
+a) Estrogen
+b) Progesterone
+c) Luteinizing hormone (LH)
+d) Human chorionic gonadotropin (hCG)
+
+Remember, always verify the accuracy of the answers and the latest scientific knowledge as the field of medicine and biology can constantly evolve.
+Certainly! Here are the answers to the 20 multiple-choice questions on the human reproductive system:
+
+1. c) Testosterone
+2. b) Ovary
+3. d) Luteal phase
+4. d) Fallopian tube
+5. b) Storage and maturation of sperm
+6. c) Ovulation
+7. d) Prolactin
+8. c) Secretion of alkaline fluid to neutralize acidic vaginal environment
+9. c) Menstruation
+10. d) Seminiferous tubules
+11. b) Production of progesterone
+12. a) Vagina
+13. c) Gonorrhea
+14. a) Vas deferens
+15. c) 28 days
+16. b) Estrogen
+17. c) Ejaculation
+18. d) To help sperm swim towards the egg
+19. a) Uterus
+20. d) Human chorionic gonadotropin (hCG)
+
+Please note that the field of medicine and biology is dynamic, so it's essential to verify the answers with the latest scientific knowledge and consult reliable sources for accurate information.
