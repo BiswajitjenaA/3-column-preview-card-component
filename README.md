@@ -315,3 +315,13 @@ Certainly! Here are the answers to the 20 multiple-choice questions on the human
 20. d) Human chorionic gonadotropin (hCG)
 
 Please note that the field of medicine and biology is dynamic, so it's essential to verify the answers with the latest scientific knowledge and consult reliable sources for accurate information.
+Dear HR Team,
+
+I hope this message finds you well. I wanted to inform you that I have taken a total of four days of medical leave from August 28th to August 31st, as recommended by our company doctor. My manager has requested that HR approve this leave request. I am attaching all the necessary medical documentation and reports for your reference.
+
+Please let me know if there are any additional steps or information required from my end to facilitate the approval process.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+[Your Name]
