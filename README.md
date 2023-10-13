@@ -23,3 +23,22 @@ I devloped this 3 column prevew card using HTML5 and  CSS3.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+Sure, I can help you draft a message to your HR and manager regarding this attendance issue. Here's a message you can use or modify as needed:
+
+Subject: Attendance Issue - All Saturdays Showing Absent
+
+Dear [HR's Name] and [Manager's Name],
+
+I hope this message finds you well. I wanted to bring to your attention an issue I encountered with my attendance records in Zoho.
+
+I had initially reported this issue to Smaranika in HR, and she was kind enough to address it promptly. However, after the issue was resolved, I noticed that all the Saturdays are now marked as "absent" in my attendance records, even though I was present on those days.
+
+I would like to request your assistance in rectifying this discrepancy and ensuring that my attendance records accurately reflect my presence on all Saturdays. It's important to me that my attendance is accurately recorded, as this affects my overall work performance assessment.
+
+I appreciate your support in resolving this matter as quickly as possible. Please let me know if there are any additional details or actions required from my end to facilitate the correction of this issue.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Your Name]
